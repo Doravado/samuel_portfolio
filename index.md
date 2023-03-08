@@ -2,6 +2,7 @@
 layout: default
 ---
 
+Welcome to my portfolio page! Here are the projects I did or am doing.
 
 # Project 1: USA Airline Delay Cause
 
