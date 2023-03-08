@@ -1,5 +1,8 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 title: Samuel Zhao Portfolio
 description: Have Fun with Data and Insights!
 show_downloads: true
 google_analytics: G-93YXP21YQB
-theme: jekyll-theme-cayman
