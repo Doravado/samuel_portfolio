@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # USA Airline Delay Cause Analysis
 
 - Cleaned the data of USA airline delay cause (data source: [Federal Aviation Administration](https://www.faa.gov/data_research)). Handled missing values, merged date time, and delimited geographic information.
