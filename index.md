@@ -4,7 +4,21 @@ layout: default
 
 Welcome to my portfolio page! Here are the projects I did or am doing.
 
-# Project 1: USA Airline Delay Cause
+# iFood Customer Data EDA
+
+- Created a new column as the unique identifier. Made a boxplot for each column and removed the outlier data. Visualized each column’s data distribution with histograms.
+
+- Used cluster map, catplot, regplot to visualize the correlation between variables. Picked the optimal X variables to predict customer response, based on random forest results.
+
+- Fitted the train data into three models (logit, probit, and c-log-log). Probit regression may be the best model for the data, with 87% accuracy after optimization.
+
+- Plotted a histogram of response probability. The business can use the model to target customers who are more likely to respond and save more marketing costs.
+
+![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/confusion_matrix.png)
+![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/hist.png)
+
+
+# USA Airline Delay Cause
 
 - Cleaned the data of USA airline delay cause (data source: [Federal Aviation Administration](https://www.faa.gov/data_research)). Handled missing values, merged date time, and delimited geographic information.
 
