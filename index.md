@@ -21,7 +21,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 ![pic1](https://github.com/Doravado/samuel_portfolio/blob/main/image/My%20project-1.png)
 
-![pic2](https://github.com/Doravado/samuel_portfolio/blob/main/image/My%20project-test.jpg)
+![pic2](https://github.com/Doravado/samuel_portfolio/blob/main/image/space_y.png)
 
 >[Learn More Details](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
