@@ -28,4 +28,4 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - In Oct 2022, I presented insights on choosing the least-likely-delayed airlines during the 2022 Thanksgiving holiday to classmates at UT Austin. I got some positive feedback about the accuracy of my models and insights after the holiday.
 
-![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/dashboard.png?raw=true)
+![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/dashboard.png)
