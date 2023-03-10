@@ -19,7 +19,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
 
-![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/My%20project-1.png)
+![alt text](/image/My%20project-1.png)
 
 >[Learn More Details](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
