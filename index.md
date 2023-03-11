@@ -6,8 +6,15 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 # Playstudios Loyalty Program Engagement Model (In Progress)
 
-- xxxx
-- 
+- Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
+
+- Collaborated with teammates to build project methodology. Used snowflake and python to process millions of player data, including querying and cleaning data and creating model variables.
+
+- Built segmentation model, classification model, and survival analysis
+
+- I can't show any specific data for confidentiality.
+
+
 
 # SpaceY Successful Landing Prediction
 
@@ -55,3 +62,9 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 ![alt text](/image/hist.png)
 
 >[Learn More Details](https://github.com/Doravado/ifood_customer_data)
+
+<br/>
+
+## More Projects In Progress...
+## Classical Music Market Data Analysis (inspired by Apple Music Classical)
+## Austin Rent Price Analysis and Forecast
