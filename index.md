@@ -100,7 +100,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 <br/>
 
 # 🏢2022-2023 Layoffs Data Visualization
-- Cleaned the data (data source: Layoffs.fyi) with Excel. 
+- Cleaned the data (data source: [Layoffs.fyi](https://layoffs.fyi/)) with Excel. 
 
 - Visualized the data from multiple perspectives (including by country, by industry, by company) to show the distribution and timeline of the mass layoffs.
 
