@@ -6,14 +6,14 @@ Welcome to my projecct portfolio page!
 
 Please feel free to share any suggestions you may have regarding my projects. Thank you!🥳
 
-# My Skills
+# 🤘My Skills
 - **Professional Skills:** Leadership, Communication and Presentation, Teamwork, Multi-task Management
 
 - **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
 
-- **Analytics:** Marketing Analytics, Data Analytics, Data Science
+- **Analytics:** Marketing Analytics, A/B Testing, Predictive Analysis, Clustering, Classification
 
-- **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodel, Sklearn
+- **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
 
 - **SQL (1+ years):** Advanced Joins, Subqueries, Window Functions, MySQL, Snowflake
 
@@ -123,24 +123,10 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 <br/>
 
-# 🛠️My Certificates
-- IBM Data Science
-
-- Google Data Analytics
-
-- Tableau Specialist
-
-- Hotspot Digital Marketing
-
-- Google Analytics Individual Qualification
-
-- [More Certificates...](https://www.linkedin.com/in/samuel-zhao/details/certifications/)
-
-![](/image/certificates.png)
-
-<br/>
-
 # 📱Contact Me
+
+Please feel free to share any suggestions you may have regarding my projects. Thank you!🥳
+
 - Phone: (737)-296-0548
 
 - Email: samandzhao@gmail.com
