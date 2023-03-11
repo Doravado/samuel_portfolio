@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Project Portfolio of Samuel Zhao
-description: 
+title: Samuel Zhao's Project Portfolio
+description: 📧samandzhao@gmail.com  |  📞(737)-296-0548
 show_downloads: true
 google_analytics: G-93YXP21YQB
