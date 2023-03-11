@@ -1,10 +1,12 @@
+<a id="top"></a>
+
 ---
 layout: default
 ---
 
 Welcome to my portfolio page! Here are the projects I did or am doing.
 
-# Playstudios Loyalty Program Engagement Model (In Progress)
+# 🎮Playstudios Loyalty Program Engagement Model (In Progress)
 
 - Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
 
@@ -20,7 +22,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-# SpaceY Successful Landing Prediction
+# 🚀SpaceY Successful Landing Prediction
 
 - Collected data from public SpaceX API and SpaceX Wikipedia page. Cleaned data and gathered relevant columns to be used as features to predict successful landings.
 
@@ -36,7 +38,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-# USA Airline Delay Cause Analysis
+# 🛬USA Airline Delay Cause Analysis
 
 - Cleaned the data of USA airline delay cause (data source: [Federal Aviation Administration](https://www.faa.gov/data_research)). Handled missing values, merged date time, and delimited geographic information.
 
@@ -52,7 +54,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-# iFood Customer Data EDA
+# 👤iFood Customer Data EDA
 
 - Created a new column as the unique identifier. Made a boxplot for each column and removed the outlier data. Visualized each column’s data distribution with histograms.
 
@@ -69,21 +71,26 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-# 2022-2023 Layoffs Data Visualization
-- 
+# 🏢2022-2023 Layoffs Data Visualization
+- Cleaned the data (data source: Layoffs.fyi) with Excel. Visualized the layoffs data from multiple perspectives (including by country, by industry, by company)  to show the distribution and timeline of the mass layoffs. Deployed the dashboard on Tableau Public.
 
+![alt text](/image/tableau.png)
 
-### More Projects Coming Soon...
+>[Learn More Details](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Dashboard2)
 
-  ### Classical Music Market Data Analysis
+<br/>
+
+# 💡More Projects Coming Soon...
+
+- 🎵Classical Music Market Data Analysis
   - Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
 
-  ### Austin Rent Price Analysis and Forecast
+- 🏠Austin Rent Price Analysis and Forecast
   - Predict Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
 
 <br/>
 
-# My Certificates
+# 🛠️My Certificates
 - IBM Data Science
 
 - Google Data Analytics
@@ -93,13 +100,16 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 - Hotspot Digital Marketing
 
 - Google Analytics Individual Qualification
-- 
 
-# Contact Me
-Phone: (737)-296-0548
-
-Email: samandzhao@gmail.com
+- [More Certificates...](https://www.linkedin.com/in/samuel-zhao/details/certifications/)
 
 <br/>
 
-[🔼 Back To Top](/#top)
+# 📱Contact Me
+- Phone: (737)-296-0548
+
+- Email: samandzhao@gmail.com
+
+<br/>
+
+[🔼 Back To Top And Know More About Me](/#top)
