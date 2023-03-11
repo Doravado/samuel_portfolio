@@ -10,11 +10,15 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Collaborated with teammates to build project methodology. Used snowflake and python to process millions of player data, including querying and cleaning data and creating model variables.
 
-- Built segmentation model, classification model, and survival analysis
+- Used machine learning to do player segmentation and classification. Did survival analysis and built a retention model to identify early characteristics of loyal players.
 
-- I can't show any specific data for confidentiality.
+- Based on insights from player analysis and models, our team is now designing the marketing campaign to activate potential loyalty players with highly efficient campaign methods.
 
+- For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation
 
+![](/image/k_means.png)
+
+<br/>
 
 # SpaceY Successful Landing Prediction
 
@@ -65,6 +69,8 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-## More Projects In Progress...
-## Classical Music Market Data Analysis (inspired by Apple Music Classical)
-## Austin Rent Price Analysis and Forecast
+### More Projects Coming Soon...
+### Classical Music Market Data Analysis
+- Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
+### Austin Rent Price Analysis and Forecast
+- Predict Austin's rising rent based on Zillow public rent data and US census data (including demographic, employment, transportation, etc.)
