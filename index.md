@@ -14,7 +14,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Based on insights from player analysis and models, our team is now designing the marketing campaign to activate potential loyalty players with highly efficient campaign methods.
 
-- For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation
+- For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation.
 
 ![](/image/playstudios_project.png)
 
@@ -80,11 +80,13 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 # 💡More Projects Coming Soon...
 
-- 🎵Classical Music Market Data Analysis
-  - Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
+🎵Classical Music Market Data Analysis
 
-- 🏠Austin Rent Price Analysis and Forecast
-  - Predict Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
+- Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
+
+🏠Austin Rent Price Analysis and Forecast
+
+- Forecast Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
 
 <br/>
 
@@ -110,6 +112,4 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Email: samandzhao@gmail.com
 
-<br/>
-
-[🔼 Back To Top And Know More About Me](https://doravado.github.io/samuel_portfolio/)
+- [🔼 Back To Top And Know More About Me](https://doravado.github.io/samuel_portfolio/)
