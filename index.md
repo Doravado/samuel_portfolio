@@ -73,4 +73,4 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 ### Classical Music Market Data Analysis
 - Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
 ### Austin Rent Price Analysis and Forecast
-- Predict Austin's rising rent based on Zillow public rent data and US census data (including demographic, employment, transportation, etc.)
+- Predict Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
