@@ -69,8 +69,37 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
+# 2022-2023 Layoffs Data Visualization
+- 
+
+
 ### More Projects Coming Soon...
-### Classical Music Market Data Analysis
-- Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
-### Austin Rent Price Analysis and Forecast
-- Predict Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
+
+  ### Classical Music Market Data Analysis
+  - Try to figure out why Apple designs a standalone music app for classical music. Why is it an emerging and profitable market?
+
+  ### Austin Rent Price Analysis and Forecast
+  - Predict Austin's rising rent based on Zillow public rent data and US census data (including demographics, employment, transportation, etc.)
+
+<br/>
+
+# My Certificates
+- IBM Data Science
+
+- Google Data Analytics
+
+- Tableau Specialist
+
+- Hotspot Digital Marketing
+
+- Google Analytics Individual Qualification
+- 
+
+# Contact Me
+Phone: (737)-296-0548
+
+Email: samandzhao@gmail.com
+
+<br/>
+
+[🔼 Back To Top](/#top)
