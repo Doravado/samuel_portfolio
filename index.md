@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 ---
 layout: default
 ---
@@ -18,7 +16,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation
 
-![](/image/k_means.png)
+![](/image/playstudios_project.png)
 
 <br/>
 
@@ -103,6 +101,8 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - [More Certificates...](https://www.linkedin.com/in/samuel-zhao/details/certifications/)
 
+![](/image/certificates.png)
+
 <br/>
 
 # 📱Contact Me
@@ -112,4 +112,4 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 <br/>
 
-[🔼 Back To Top And Know More About Me](/#top)
+[🔼 Back To Top And Know More About Me](https://doravado.github.io/samuel_portfolio/)
