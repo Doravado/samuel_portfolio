@@ -16,14 +16,15 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
+      <a id="top"></a>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="https://github.com/Doravado" class="btn">&#x1F4BB GitHub</a>
-      {% endif %}
-      <a href="https://www.linkedin.com/in/samuel-zhao/" class="btn">&#x1F587 LinkedIn</a>
       {% if site.show_downloads %}
         <a href="https://github.com/Doravado/samuel_portfolio/raw/main/image/Resume2023%20-%20Samuel%20Zhao.pdf" class="btn" download>&#x1F4DD Resume</a>
+      {% endif %}
+      <a href="https://www.linkedin.com/in/samuel-zhao/" class="btn">&#x1F587 LinkedIn</a>
+      {% if site.github.is_project_page %}
+        <a href="https://github.com/Doravado" class="btn">&#x1F4BB GitHub</a>
       {% endif %}
     </header>
 
