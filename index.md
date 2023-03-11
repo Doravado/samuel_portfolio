@@ -19,6 +19,8 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
 
+![](/image/space_y.png)
+
 >[Learn More Details](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
 <br/>
@@ -33,7 +35,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - In Oct 2022, I presented insights on choosing the least-likely-delayed airlines during the 2022 Thanksgiving holiday to classmates at UT Austin. I got some positive feedback about the accuracy of my models and insights after the holiday.
 
-![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/dashboard2.png){:class="img-responsive"}
+![alt text](/image/dashboard2.png)
 
 >[Learn More Details](https://github.com/Doravado/usa_airline_delay_cause)
 
@@ -49,7 +51,7 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Plotted a histogram of response probability. The business can use the model to target customers who are more likely to respond and save more marketing costs.
 
-![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/confusion_matrix.png){:class="img-responsive"}
-![alt text](https://github.com/Doravado/samuel_portfolio/blob/main/image/hist.png){:class="img-responsive"}
+![alt text](/image/confusion_matrix.png)
+![alt text](/image/hist.png)
 
 >[Learn More Details](https://github.com/Doravado/ifood_customer_data)
