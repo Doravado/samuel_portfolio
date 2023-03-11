@@ -16,7 +16,21 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation.
 
-![](/image/playstudios_project.png)
+![](/image/playstudios_project2.png)
+
+<br/>
+
+# 🏅McCombs Marketing Case Challenge of SAMSUNG
+
+- Won the 3rd place against MSM and MBA teams in case competition judged by Fortune 500 executives.
+
+- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing marketing models. Responsible for qualitative analysis of customer segmentation, media strategy, campaign effect, and budget recommendation.
+
+- Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes with a quantification of the impact.
+
+![](/image/samsung.png)
+
+> [Learn More Details](https://docs.google.com/presentation/d/1g4WpDGZbBQX3FzKpIPkti4ToArg9n9XVMEuoRXJYfAQ/edit?usp=sharing)
 
 <br/>
 
