@@ -4,6 +4,24 @@ layout: default
 
 Welcome to my portfolio page! Here are the projects I did or am doing.
 
+# My Skills
+
+- Professional Skills: Leadership, Communication and Presentation, Teamwork, Multi-task Management
+
+- Marketing: Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
+
+- Analytics: Marketing Analytics, Data Analytics, Data Science
+
+- Python (1+ years): Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodel, Sklearn
+
+- SQL (1+ years): Advanced Joins, Subqueries, Window Functions, MySQL, Snowflake
+
+- Others: Excel (3+ years), Powerpoint (3+ years), R (1+ years), Tableau (1+ years)
+
+![](/image/skills.png)
+
+<br/>
+
 # 🎮Playstudios Loyalty Program Engagement Model (In Progress)
 
 - Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
@@ -24,9 +42,11 @@ Welcome to my portfolio page! Here are the projects I did or am doing.
 
 - Won the 3rd place against MSM and MBA teams in case competition judged by Fortune 500 executives.
 
-- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing marketing models. Responsible for qualitative analysis of customer segmentation, media strategy, campaign effect, and budget recommendation.
+- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing marketing models. 
 
-- Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes with a quantification of the impact.
+- Responsible for qualitative analysis of customer segmentation, media strategy, campaign effect, and budget recommendation.
+
+- Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes.
 
 ![](/image/samsung.png)
 
