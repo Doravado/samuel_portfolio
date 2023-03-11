@@ -11,7 +11,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
 
-- **Analytics:** Marketing Analytics, A/B Testing, Predictive Analysis, Clustering, Classification
+- **Analytics:** Marketing Analytics, Data Analytics, A/B Testing, Predictive Analysis, Clustering, Classification
 
 - **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
 
@@ -30,7 +30,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Used machine learning to do player segmentation and classification. Did survival analysis and built a retention model to identify early characteristics of loyal players.
 
-- Based on insights from player analysis and models, our team is now designing the marketing campaign to activate potential loyalty players with highly efficient campaign methods.
+- Based on insights from player analysis and models, our team is now designing a marketing campaign to activate potential loyalty players with highly efficient campaign methods.
 
 - For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation.
 
