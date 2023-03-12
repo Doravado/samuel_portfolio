@@ -26,7 +26,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 # 🎮Playstudios Loyalty Program Engagement Model (In Progress)
 - Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
 
-- Collaborated with teammates to build project methodology. Used snowflake and python to process millions of player data, including querying and cleaning data and creating model variables.
+- Collaborated with teammates to build project methodology. Used snowflake and python to process 2 million player data, including querying and cleaning data and creating model variables.
 
 - Used machine learning to do player segmentation and classification. Did survival analysis and built a retention model to identify early characteristics of loyal players.
 
@@ -58,7 +58,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Explored data using SQL, visualization, folium maps, and [dashboard](https://space-y-dashboard.onrender.com/). Explored and visualized the correlation between successful landings and other features.
 
-- Four machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
+- 4 machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
 
 - Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
 
