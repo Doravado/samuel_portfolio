@@ -11,7 +11,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
 
-- **Analytics:**  A/B Testing, Predictive Analysis (Linear Regression, Logistic Regression, Time Series Forecasting), Clustering, Classification, Conjoint Analysis, CLV Analysis, Pricing Analysis, Campaign Analysis, Survival Analysis
+- **Analytics:**  A/B Testing, Predictive Analysis (Linear Regression, Logistic Regression, Time Series Forecasting), Clustering, Classification, Conjoint Analysis, Survival Analysis, CLV Analysis, Pricing Analysis, Campaign Analysis
 
 - **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
 
