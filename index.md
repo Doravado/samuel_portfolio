@@ -11,7 +11,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
 
-- **Analytics:** Marketing Analytics, Data Analytics, A/B Testing, Predictive Analysis, Clustering, Classification
+- **Analytics:**  A/B Testing, Predictive Analysis (Linear Regression, Logistic Regression, Time Series Forecasting), Clustering, Classification, Conjoint Analysis, CLV Analysis, Pricing Analysis, Campaign Analysis, Survival Analysis
 
 - **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
 
@@ -129,6 +129,6 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Phone: (737)-296-0548
 
-- Email: samandzhao@gmail.com
+- Email: samuel.zhao@utexas.com
 
 - [🔼 Back To Top And Know More About Me](https://doravado.github.io/samuel_portfolio/)
