@@ -26,7 +26,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 # 🎮Playstudios Loyalty Program Engagement Model (In Progress)
 - Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
 
-- Collaborated with teammates to build project methodology. Used snowflake and python to process 2 million player data, including querying and cleaning data and creating model variables.
+- Collaborated with teammates to build project methodology. Used snowflake, SQL, and python to process 2 million player data independently, including querying and cleaning data and creating model variables.
 
 - Used machine learning to do player segmentation and classification. Did survival analysis and built a retention model to identify early characteristics of loyal players.
 
