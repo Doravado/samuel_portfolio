@@ -39,7 +39,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 # 🏅McCombs Marketing Case Challenge of SAMSUNG
 - Won the 3rd place against MSM and MBA teams in case competition judged by Fortune 500 executives.
 
-- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing marketing models. 
+- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing 3+ marketing models and qualitative research.
 
 - Responsible for qualitative analysis of customer segmentation, media strategy, campaign effect, and budget recommendation.
 
@@ -67,13 +67,13 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 <br/>
 
 # 🛬USA Airline Delay Cause Analysis
-- Cleaned the data of USA airline delay cause (data source: [Federal Aviation Administration](https://www.faa.gov/data_research)). Handled missing values, merged date time, and delimited geographic information.
+- Cleaned the data of USA airline delay cause (data source: [Federal Aviation Administration](https://www.faa.gov/data_research)). Handled missing values, merged date time, and delimited geographic information in python.
 
 - Analyzed and visualized the data from multiple perspectives and generated insights on time series features, delay cause, and geographic information.
 
-- Used Holt-Winters model and forecasted Austin Airport performance in 2023. Created and deployed the performance [dashboard](https://austin-ariport-delay-cause-dashboard.onrender.com) (click to see).
+- Used Holt-Winters model and forecasted Austin Airport performance in 2023. Optimized the models and increased the accuracy by 5% on average. Created and deployed the performance [dashboard](https://austin-ariport-delay-cause-dashboard.onrender.com) (click to see).
 
-- In Oct 2022, I presented insights on choosing the least-likely-delayed airlines during the 2022 Thanksgiving holiday to classmates at UT Austin. I got some positive feedback about the accuracy of my models and insights after the holiday.
+- In Oct 2022, I presented insights on choosing the least-likely-delayed airlines during the 2022 Thanksgiving holiday to classmates at UT Austin. I got some positive feedbacks about the accuracy of my models and insights after the holiday.
 
 ![alt text](/image/dashboard2.png)
 
