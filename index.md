@@ -32,8 +32,6 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Based on insights from player analysis and models, our team is now designing a marketing campaign to activate potential loyalty players with highly efficient campaign methods.
 
-- For the client's confidentiality policy, I can't display specific data here, and I am happy to share our team's work plan and thought process in a conversation.
-
 ![](/image/playstudios_project2.png)
 
 <br/>
