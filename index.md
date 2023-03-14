@@ -176,7 +176,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - According to regression coefficients, the longer the days since the consumer became the customer, the customer is more likely to respond to the promotion campaign.
 
-![alt text](/image/ifood/probit.png){:width="80%"}
+![alt text](/image/ifood/probit2.png){:width="80%"}
 
 - For the next campaign, the business can predict customer response probability based on their features and target customers more likely to respond. Targeting those customers rather than all customers can save more costs for the business.
 
