@@ -124,6 +124,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 - Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
 
 ### Key Insights
+#### Data Correlation
 - 20 flights is a significant breakthrough that increased the landing success rate.
 
 ![](/image/spacey/flight_number.png)
@@ -136,6 +137,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 ![](image/spacey/launchtime.png){:width="50%"}
 
+#### Landing Success Prediction
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
 
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
@@ -174,7 +176,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - According to regression coefficients, the longer the days since the consumer became the customer, the customer is more likely to respond to the promotion campaign.
 
-![alt text](/image/ifood/probit.png){:width="50%"}
+![alt text](/image/ifood/probit.png){:width="80%"}
 
 - For the next campaign, the business can predict customer response probability based on their features and target customers more likely to respond. Targeting those customers rather than all customers can save more costs for the business.
 
