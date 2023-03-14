@@ -32,6 +32,8 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Based on insights from player analysis and models, our team is now designing a marketing campaign to activate potential loyalty players with highly efficient campaign methods.
 
+- Made decks and communicated project methodology and outcomes to client, synthesizing technical analysis into simple and clear terms.
+
 ![](/image/playstudios_project2.png)
 
 <br/>
