@@ -75,7 +75,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 ### Key Insights
 #### Time Series Analysis
-  - From 2003 to 2017, the number of arriving flights goes down for the overall trend. However, it has skyrocketed since 2018 and peaked in 2019. The data plunge in 2020, expectedly. In 2022, flight traffic will return to the pre-pandemic level while still much lower than in 2019. On average, the number of arriving flights is highest in August and lowest in February.
+  - In 2022, flight traffic will return to the pre-pandemic level while still much lower than in 2019. On average, the number of arriving flights is highest in August and lowest in February.
 
 ![](/image/airline/flightnumber.png)
 
@@ -88,7 +88,9 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 #### Delay Cause Analysis
   - 'Late_aircraft_delay' generate the most delay minutes every month.
 
-  - Delay minutes hit the peak during Jun and Jul, though flight traffic does not reach the highest point until August. In June, both 'carrier_delay' and 'weather_delay' percentage increase. According to meteorological records, June and July, in particular, are the peak months for severe thunderstorms with high winds.
+  - Delay minutes hit the peak during Jun and Jul, though flight traffic does not reach the highest point until August. 
+  
+  - In June, both 'carrier_delay' and 'weather_delay' percentage increase. According to meteorological records, June and July, in particular, are the peak months for severe thunderstorms with high winds.
 
   -  In August, the percentages of 'carrier_delay' and 'nas_delay' jump up, which may be attributed to high flights this month.
 
@@ -132,13 +134,13 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
 
-![](image/spacey/launchtime.png){: width="50%" }
+![](image/spacey/launchtime.png){: height="50%" }
 
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
 
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
 
-![](image/spacey/accuracy.png){: width="50%" }
+![](image/spacey/accuracy.png){: height="50%" }
 
 >[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
@@ -153,8 +155,30 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Plotted a histogram of response probability. The business can use the model to target customers who are more likely to respond and save more marketing costs.
 
-![alt text](/image/confusion_matrix.png)
-![alt text](/image/hist.png)
+### Key Insights
+#### Data Correlation
+- 'Z_CostContact' and 'Z_Revenue' have no correlation with any variables, so I dropped the two features at first.
+
+- The purchases of all kinds of products are highly correlated. Additionally, income and the number of kids are significantly correlated with many other variables.
+
+![alt text](/image/ifood/clustermap.png)
+
+- Based on catplot and regplot, age and purchase amount are positively correlated. Each age has a broad range of purchase amounts tough.
+
+![alt text](/image/ifood/catplot.png)
+
+#### Modeling Customer Response
+- Probit regression may be the best model to model customer response here. The accuracy score of the final model is around 87%.
+
+![alt text](/image/ifood/confusion_matrix.png)
+
+- According to regression coefficients, the longer the days since the consumer became the customer, the customer is more likely to respond to the promotion campaign.
+
+![alt text](/image/ifood/probit.png){: height="80%" }
+
+- For the next campaign, the business can predict customer response probability based on their features and target customers more likely to respond. Targeting those customers rather than all customers can save more costs for the business.
+
+![alt text](/image/ifood/hist.png)
 
 >[Learn More Details](https://github.com/Doravado/ifood_customer_data)
 
