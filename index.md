@@ -140,7 +140,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
 
-![](image/spacey/accuracy.png){:height="50%"}
+![](image/spacey/accuracy.png){:width="50%"}
 
 >[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
