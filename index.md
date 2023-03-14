@@ -47,36 +47,20 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes.
 
+### Key Insights
+- Target Segment: Based on our analysis, within Gen Z Girls, the Gen Z Girl Gamer has the highest potential and alignment with SAMSUNG's product portfolio.
+
+- Emerging Market: Almost all Gen Z Girls already have a phone. So, to break into the market, targeting wireless audio is the most ideal because it is an emerging market.
+
+- Current Positioning: We noticed a potential new market of wireless audio for gaming with no other major competitors for SAMSUNG Galaxy Buds.
+
+- Proposed Campaign: We propose a campaign called #AllYou based on Gen Z’s psychographics. This campaign will build empathy with consumers through sponsored streams of influencers.
+
+- Break Into Niche & Conquer: We can decrease customers’ switching costs by using earbuds as a stepping stone to build brand equity. Ultimately, we can get Gen Z switch to the whole SAMSUNG’s product portfolio.
+
 ![](/image/samsung.png)
 
-> [Learn More Details](https://docs.google.com/presentation/d/1g4WpDGZbBQX3FzKpIPkti4ToArg9n9XVMEuoRXJYfAQ/edit?usp=sharing)
-
-<br/>
-
-# 🚀SpaceY Successful Landing Prediction
-- Collected data from public SpaceX API and SpaceX Wikipedia page. Cleaned data and gathered relevant columns to be used as features to predict successful landings.
-
-- Explored data using SQL, visualization, folium maps, and [dashboard](https://space-y-dashboard.onrender.com/). Explored and visualized the correlation between successful landings and other features.
-
-- 4 machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
-
-- Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
-
-### Key Takeaways
-- 20 flights is a significant breakthrough that increased the landing success rate.
-![](/image/spacey/flight%20number%20.png)
-
-- Landing appears to perform better in lower orbits or Sun-synchronous orbits.
-![](/image/spacey/orbit.png)
-
-- Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
-![](/image/spacey/launchtime.png)
-
-- All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
-- SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
-![](/image/spacey/accuracy.png)
-
->[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
+> [Learn More Insights](https://docs.google.com/presentation/d/1g4WpDGZbBQX3FzKpIPkti4ToArg9n9XVMEuoRXJYfAQ/edit?usp=sharing)
 
 <br/>
 
@@ -89,9 +73,39 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - In Oct 2022, I presented insights on choosing the least-likely-delayed airlines at Austin Airport during the 2022 Thanksgiving holiday in class. After holiday, my classmates gave me some positive feedback about the accuracy of the models according to their holiday travel experience.
 
-![alt text](/image/dashboard2.png)
+### Key Insights
 
->[Learn More Details](https://github.com/Doravado/usa_airline_delay_cause)
+
+![](/image/dashboard2.png)
+
+>[Learn More Insights](https://github.com/Doravado/usa_airline_delay_cause)
+
+<br/>
+
+# 🚀SpaceY Successful Landing Prediction
+- Collected data from public SpaceX API and SpaceX Wikipedia page. Cleaned data and gathered relevant columns to be used as features to predict successful landings.
+
+- Explored data using SQL, visualization, folium maps, and [dashboard](https://space-y-dashboard.onrender.com/). Explored and visualized the correlation between successful landings and other features.
+
+- 4 machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
+
+- Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
+
+### Key Insights
+- 20 flights is a significant breakthrough that increased the landing success rate.
+![](/image/spacey/flight_number.png)
+
+- Landing appears to perform better in lower orbits or Sun-synchronous orbits.
+![](/image/spacey/orbit.png)
+
+- Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
+<img src="image/spacey/launchtime.png" alt= “” width="50%" >
+
+- All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
+- SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
+<img src="/image/spacey/accuracy.png" alt= “” width="50%" >
+
+>[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
 <br/>
 
