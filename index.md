@@ -134,13 +134,13 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
 
-![](image/spacey/launchtime.png){: height="50%" }
+![](image/spacey/launchtime.png){:height="50%"}
 
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
 
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
 
-![](image/spacey/accuracy.png){: height="50%" }
+![](image/spacey/accuracy.png){:height="50%"}
 
 >[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
@@ -174,7 +174,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - According to regression coefficients, the longer the days since the consumer became the customer, the customer is more likely to respond to the promotion campaign.
 
-![alt text](/image/ifood/probit.png){: height="80%" }
+![alt text](/image/ifood/probit.png){:height="80%"}
 
 - For the next campaign, the business can predict customer response probability based on their features and target customers more likely to respond. Targeting those customers rather than all customers can save more costs for the business.
 
