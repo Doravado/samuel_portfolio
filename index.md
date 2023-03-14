@@ -105,6 +105,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 ![](image/spacey/launchtime.png){: width="50%" }
 
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
+
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
 
 ![](image/spacey/accuracy.png){: width="50%" }
