@@ -48,15 +48,15 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 - Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes.
 
 ### Key Insights
-- Target Segment: Based on our analysis, within Gen Z Girls, the Gen Z Girl Gamer has the highest potential and alignment with SAMSUNG's product portfolio.
+- **Target Segment:** Based on our analysis, within Gen Z Girls, the Gen Z Girl Gamer has the highest potential and alignment with SAMSUNG's product portfolio.
 
-- Emerging Market: Almost all Gen Z Girls already have a phone. So, to break into the market, targeting wireless audio is the most ideal because it is an emerging market.
+- **Emerging Market:** Almost all Gen Z Girls already have a phone. So, to break into the market, targeting wireless audio is the most ideal because it is an emerging market.
 
-- Current Positioning: We noticed a potential new market of wireless audio for gaming with no other major competitors for SAMSUNG Galaxy Buds.
+- **Current Positioning:** We noticed a potential new market of wireless audio for gaming with no other major competitors for SAMSUNG Galaxy Buds.
 
-- Proposed Campaign: We propose a campaign called #AllYou based on Gen Z’s psychographics. This campaign will build empathy with consumers through sponsored streams of influencers.
+- **Proposed Campaign:** We propose a campaign called #AllYou based on Gen Z’s psychographics. This campaign will build empathy with consumers through sponsored streams of influencers.
 
-- Break Into Niche & Conquer: We can decrease customers’ switching costs by using earbuds as a stepping stone to build brand equity. Ultimately, we can get Gen Z switch to the whole SAMSUNG’s product portfolio.
+- **Break Into Niche & Conquer:** We can decrease customers’ switching costs by using earbuds as a stepping stone to build brand equity. Ultimately, we can get Gen Z switch to the whole SAMSUNG’s product portfolio.
 
 ![](/image/samsung.png)
 
