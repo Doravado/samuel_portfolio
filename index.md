@@ -99,11 +99,11 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 ![](/image/spacey/orbit.png)
 
 - Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
-<img src="image/spacey/launchtime.png" alt= “” width="50%" >
+![](image/spacey/launchtime.png){: width="50%" }
 
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
 - SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
-<img src="/image/spacey/accuracy.png" alt= “” width="50%" >
+<img src="/image/spacey/accuracy.png" width="50%">
 
 >[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
