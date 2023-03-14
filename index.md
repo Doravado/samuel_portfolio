@@ -180,7 +180,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 ![alt text](/image/ifood/hist.png)
 
->[Learn More Details](https://github.com/Doravado/ifood_customer_data)
+>[Learn More Insights](https://github.com/Doravado/ifood_customer_data)
 
 <br/>
 
@@ -191,9 +191,18 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Deployed the dashboard on Tableau Public.
 
+### Key Insights
+- Mass layoffs are sweeping worldwide, and the U.S. accounts for 69% of layoffs. Meanwhile, India and many European countries are also worst-hit areas.
+
+- The consumer industry is experiencing the most severe layoff earthquake, while the manufacturing industry is least vulnerable.
+
+- 21% of layoffs in the U.S. are from the consumer industry. While in other countries, employers from healthcare and other industries have the most layoffs.
+
+- The layoff storm seemingly has no sign of stopping, and it is even accelerating in big countries, including America, China, and India.
+
 ![alt text](/image/tableau.png)
 
->[Learn More Details](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Dashboard2)
+>[Learn More Insights](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Dashboard2)
 
 <br/>
 
