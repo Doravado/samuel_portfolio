@@ -134,7 +134,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
 
-![](image/spacey/launchtime.png){:height="50%"}
+![](image/spacey/launchtime.png | height="50%")
 
 - All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
 
@@ -174,7 +174,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - According to regression coefficients, the longer the days since the consumer became the customer, the customer is more likely to respond to the promotion campaign.
 
-![alt text](/image/ifood/probit.png){:height="80%"}
+![alt text](/image/ifood/probit.png | width="80%")
 
 - For the next campaign, the business can predict customer response probability based on their features and target customers more likely to respond. Targeting those customers rather than all customers can save more costs for the business.
 
@@ -189,7 +189,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Visualized the data from multiple perspectives (including by country, by industry, by company) to show the distribution and timeline of the mass layoffs.
 
-- Deployed the dashboard on Tableau Public.
+- Deployed the [dashboard](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Story1) (click to see) on Tableau Public.
 
 ### Key Insights
 - Mass layoffs are sweeping worldwide, and the U.S. accounts for 69% of layoffs. Meanwhile, India and many European countries are also worst-hit areas.
@@ -202,7 +202,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 ![alt text](/image/tableau.png)
 
->[Learn More Insights](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Dashboard2)
+>[Learn More Insights](https://public.tableau.com/app/profile/samuel.zhao2703/viz/2022-2023Layoffs/Story1)
 
 <br/>
 
