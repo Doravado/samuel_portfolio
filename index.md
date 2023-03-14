@@ -75,7 +75,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Used Holt-Winters model and forecasted Austin Airport performance in 2023. Optimized the models and increased the accuracy by 5% on average. Created and deployed the performance [dashboard](https://austin-ariport-delay-cause-dashboard.onrender.com) (click to see).
 
-- In Oct 2022, I presented insights on choosing the least-likely-delayed airlines during the 2022 Thanksgiving holiday to classmates at UT Austin. After holiday, my classmates gave me some positive feedback about the accuracy of the models according to their holiday travel experience.
+- In Oct 2022, I presented insights on choosing the least-likely-delayed airlines at Austin Airport during the 2022 Thanksgiving holiday in class. After holiday, my classmates gave me some positive feedback about the accuracy of the models according to their holiday travel experience.
 
 ![alt text](/image/dashboard2.png)
 
