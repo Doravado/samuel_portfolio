@@ -62,9 +62,21 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
 
-![](/image/space_y.png)
+### Key Takeaways
+- 20 flights is a significant breakthrough that increased the landing success rate.
+![](/image/spacey/flight%20number%20.png)
 
->[Learn More Details](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
+- Landing appears to perform better in lower orbits or Sun-synchronous orbits.
+![](/image/spacey/orbit.png)
+
+- Landing success generally increases over time since 2013, with a slight dip in 2018. Success in recent years at around 80%.
+![](/image/spacey/launchtime.png)
+
+- All models had virtually the same accuracy on the test set at 83.33% accuracy. We likely need more data to determine the best model.
+- SpaceY can use this model to predict whether a launch will have a successful landing to determine whether the launch should be made or not.
+![](/image/spacey/accuracy.png)
+
+>[Learn More Insights](https://github.com/Doravado/space_y/blob/main/image/ds-capstone-chongxinzhao.pdf)
 
 <br/>
 
