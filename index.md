@@ -7,9 +7,9 @@ Welcome to my projecct portfolio page!
 Please feel free to share any suggestions you may have regarding my projects. Thank you!🥳
 
 # 🤘My Skills
-- **Professional Skills:** Leadership, Communication and Presentation, Teamwork, Multi-task Management
+- **Professional Skills:** Leadership, Team Communication, Presentation, Multi-task Management
 
-- **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy
+- **Marketing:** Marketing Management, Consumer Insights, Digital Marketing, Media Strategy, Global Perspective
 
 - **Analytics:**  A/B Testing, Predictive Analysis (Linear Regression, Logistic Regression, Time Series Forecasting), Clustering, Classification, Conjoint Analysis, Survival Analysis, CLV Analysis, Pricing Analysis, Campaign Analysis
 
