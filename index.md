@@ -223,6 +223,6 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Phone: (737)-296-0548
 
-- Email: samuel.zhao@utexas.edu
+- Email: samandzhao@gmail.com
 
 - [🔼 Back To Top And Know More About Me](https://doravado.github.io/samuel_portfolio/)
