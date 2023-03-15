@@ -24,28 +24,26 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 <br/>
 
 # 🎮Playstudios Loyalty Program Engagement Model (In Progress)
-- Led a team of four to drive project progress and was mainly responsible for communicating with clients and other parties to coordinate tasks and timelines.
+- Led a team of four to drive project progress, monitor outcomes, and communicate with clients and other parties to coordinate tasks and timelines.
 
-- Collaborated with teammates to build project methodology. Used snowflake, SQL, and python to process 2 million player data independently, including querying and cleaning data and creating model variables.
+- Developed project methodology collaborating with teammates. Processed 2 million player data independently, including querying and cleaning data and creating model variables, with snowflake, SQL, and Python.
 
-- Used machine learning to do player segmentation and classification. Did survival analysis and built a retention model to identify early characteristics of loyal players.
+- Segmented players using machine learning models. Built a retention model to identify early characteristics of loyal players based on classification and survival analysis.
 
-- Based on insights from player analysis and models, our team is now designing a marketing campaign to activate potential loyalty players with highly efficient campaign methods.
+- Our team is now designing a marketing campaign to increase player loyalty with highly efficient campaign methods, based on insights from player analysis and models.
 
-- Made decks and communicated project methodology and outcomes to client, synthesizing technical analysis into simple and clear terms.
+- Designed decks and communicated project methodology and outcomes to clients, synthesizing technical analysis into simple and clear terms.
 
 ![](/image/playstudios_project2.png)
 
 <br/>
 
 # 🏅McCombs Marketing Case Challenge of SAMSUNG
-- Won the 3rd place against MSM and MBA teams in case competition judged by Fortune 500 executives.
+- Won the 3rd place against 21 MSM and MBA teams in the case competition judged by Fortune 500 executives.
 
-- Collaborated with teammates and recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers in the U.S. by utilizing 3+ marketing models and qualitative research.
+- Recommended a blue ocean strategy for SAMSUNG to gain Gen Z customers based on 3 models and qualitative research.
 
-- Responsible for qualitative analysis of customer segmentation, media strategy, campaign effect, and budget recommendation.
-
-- Presented the final strategy and marketing campaign plan to judges with teammates. Answered judges' questions and communicated strategy thought processes.
+- Led and presented the quantitative analysis of customer segmentation and brand positioning using Tableau and Excel.
 
 ### Key Insights
 - **Target Segment:** Based on our analysis, within Gen Z Girls, the Gen Z Girl Gamer has the highest potential and alignment with SAMSUNG's product portfolio.
@@ -69,7 +67,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Analyzed and visualized the data from multiple perspectives and generated insights on time series features, delay cause, and geographic information.
 
-- Used Holt-Winters model and forecasted Austin Airport performance in 2023. Optimized the models and increased the accuracy by 5% on average. Created and deployed the performance [dashboard](https://austin-ariport-delay-cause-dashboard.onrender.com) (click to see).
+-Forecasted Austin Airport performance in 2023 using Holt-Winters model. Optimized the models and increased the accuracy by 5% on average. Created and deployed the performance [dashboard](https://austin-ariport-delay-cause-dashboard.onrender.com) (click to see).
 
 - In Oct 2022, I presented insights on choosing the least-likely-delayed airlines at Austin Airport during the 2022 Thanksgiving holiday in class. After holiday, my classmates gave me some positive feedback about the accuracy of the models according to their holiday travel experience.
 
@@ -119,9 +117,9 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - Explored data using SQL, visualization, folium maps, and [dashboard](https://space-y-dashboard.onrender.com/). Explored and visualized the correlation between successful landings and other features.
 
-- 4 machine learning models were produced: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
+- Produced 4 machine learning models: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors to predict successful landings.
 
-- Used GridSearchCV to find the best parameters for machine learning models. All models had similar results, with an accuracy rate of about 83.33%.
+- Explored the best parameters for machine learning models using GridSearchCV. All models had similar results, with an accuracy rate of about 83.33%.
 
 ### Key Insights
 #### Data Correlation
@@ -151,7 +149,7 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 # 👤iFood Customer Data EDA
 - Created a new column as the unique identifier. Made a boxplot for each column and removed the outlier data. Visualized each column’s data distribution with histograms.
 
-- Used cluster map, catplot, regplot to visualize the correlation between variables. Picked the optimal X variables to predict customer response, based on random forest results.
+- Visualized the correlation between variables with cluster map, catplot, regplot. Predicted customer response by picking the optimal X variables based on random forest results.
 
 - Fitted the train data into three models (logit, probit, and c-log-log). Probit regression may be the best model for the data, with 87% accuracy after optimization.
 
