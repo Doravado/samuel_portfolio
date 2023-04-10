@@ -13,11 +13,11 @@ Please feel free to share any suggestions you may have regarding my projects. Th
 
 - **Analytics:**  A/B Testing, Predictive Analysis (Linear Regression, Logistic Regression, Time Series Forecasting), Clustering, Classification, Conjoint Analysis, Survival Analysis, CLV Analysis, Pricing Analysis, Campaign Analysis
 
-- **Python (1+ years):** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
+- **Python:** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Statsmodels, Sklearn
 
-- **SQL (1+ years):** Advanced Joins, Subqueries, Window Functions, MySQL, Snowflake
+- **SQL:** Advanced Joins, Subqueries, Window Functions, Triggers, MySQL
 
-- **Others:** Excel (3+ years), Powerpoint (3+ years), R (1+ years), Tableau (1+ years)
+- **Others:** Excel, Powerpoint, R, Tableau, AWS Redshift, Omniture, Snowflake
 
 ![](/image/skills.png)
 
